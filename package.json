@@ -1,0 +1,22 @@
+{
+  "name": "free-chatgpt-3.5-turbo-api",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free chatgpt",
+    "chatgpt api",
+    "chatgpt"
+  ],
+  "author": "seshdev",
+  "license": "MIT",
+  "description": "Free API for ChatGPT 3.5 TURBO!",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "eventsource": "^2.0.2",
+    "free-chatgpt-3.5-turbo-api": "^1.0.2"
+  }
+}
